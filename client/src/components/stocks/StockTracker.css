@@ -1,0 +1,17 @@
+.stock-tracker {
+    background-color: #eceff1;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .stock-tracker ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .stock-tracker li {
+    font-size: 16px;
+    padding: 5px 0;
+  }
+
+  

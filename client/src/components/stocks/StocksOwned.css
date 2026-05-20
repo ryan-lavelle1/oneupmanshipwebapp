@@ -1,0 +1,26 @@
+.stocks-owned {
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .stocks-owned ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .stocks-owned li {
+    font-size: 16px;
+    padding: 5px 0;
+  }
+
+  .stocks-owned h4 {
+    text-decoration: underline;
+    padding-top: 15px;
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  .stocks-owned p {
+    margin: 2px 0;
+    font-size: 14px;
+  }

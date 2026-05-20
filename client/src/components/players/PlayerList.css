@@ -1,0 +1,15 @@
+.player-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .player-list li {
+    font-size: 18px;
+    color: #333;
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .player-list li strong {
+    font-weight: bold;
+  }

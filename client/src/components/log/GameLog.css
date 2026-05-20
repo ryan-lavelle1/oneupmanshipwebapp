@@ -1,0 +1,23 @@
+.game-log {
+  background-color: #fff;
+  padding: 10px;
+  /* height: 120px; */
+  overflow-y: auto;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+
+  flex: 1;
+  min-height: 0;
+}
+
+.game-log p {
+  margin: 5px 0;
+}
+
+.game-log .event {
+  font-weight: bold;
+}
+
+.game-log .player {
+  color: #42a5f5;
+}

@@ -1,0 +1,28 @@
+.right-panel-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 100%;
+}
+
+.right-panel-section {
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd;
+}
+
+.right-panel-section.grow {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.right-panel-section h3 {
+  margin-bottom: 10px;
+}
+
+.right-panel-section + .right-panel-section {
+  margin-top: 10px;
+}
